@@ -4,11 +4,11 @@ Alfred Workflow for searching [rubygems.org](https://rubygems.org/).
 
 Open in RubyGems....
 
-<img width="722" alt="open" src="https://user-images.githubusercontent.com/441642/210272143-40dc4947-14c5-4ef9-aafe-6bb618ed722c.png">
+<img width="721" alt="open" src="https://user-images.githubusercontent.com/441642/211909349-53639e20-670b-4511-afce-c5f9b7e93b7a.png">
 
 Search in RubyGems....
 
-<img width="721" alt="search" src="https://user-images.githubusercontent.com/441642/210272149-69470d89-ba2a-488e-bdba-45c9810446aa.png">
+<img width="721" alt="search" src="https://user-images.githubusercontent.com/441642/211909352-9c0ced4c-525b-434b-943f-a5524098e0f9.png">
 
 # Install
 
